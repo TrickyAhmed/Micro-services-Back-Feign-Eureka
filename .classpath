@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AdresseService/src/main/java"/>
+	<classpathentry kind="src" path="AdresseService/src/test/java"/>
+	<classpathentry kind="src" path="api-gateway/.mvn/wrapper"/>
+	<classpathentry kind="src" path="api-gateway/src/main/java"/>
+	<classpathentry kind="src" path="api-gateway/src/test/java"/>
+	<classpathentry kind="src" path="EureKa_server/src/main/java"/>
+	<classpathentry kind="src" path="EureKa_server/src/test/java"/>
+	<classpathentry kind="src" path="StudentService/.mvn/wrapper"/>
+	<classpathentry kind="src" path="StudentService/src/main/java"/>
+	<classpathentry kind="src" path="StudentService/src/test/java"/>
+	<classpathentry kind="lib" path="api-gateway/target/student-service-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="AdresseService/target/classes"/>
+</classpath>

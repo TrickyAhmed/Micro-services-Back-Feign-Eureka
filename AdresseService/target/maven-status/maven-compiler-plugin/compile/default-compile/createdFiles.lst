@@ -1,0 +1,11 @@
+tn\micro\service\cloud\entity\Address.class
+tn\micro\service\cloud\UniversityMonolithicApplication.class
+tn\micro\service\cloud\service\AddressService.class
+tn\micro\service\cloud\service\IAddressService.class
+tn\micro\service\cloud\response\AdressResponse.class
+tn\micro\service\cloud\request\CreateAdressRequest.class
+tn\micro\service\cloud\config\WebConfig$1.class
+tn\micro\service\cloud\repository\AddressRepository.class
+tn\micro\service\cloud\controller\AddressController.class
+tn\micro\service\cloud\exceptions\AdressBadRequestException.class
+tn\micro\service\cloud\config\WebConfig.class
